@@ -11,7 +11,5 @@ public class Main {
         System.out.println(ex_1.annoBisestile(1990));
         System.out.println(ex_1.annoBisestile(2024));
 
-
-
     }
 }
